@@ -2,7 +2,8 @@
   "name": "nest-template",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": "Bloodsfire",
+  "repository": "https://github.com/Bloodsfire/nest-template.git",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
